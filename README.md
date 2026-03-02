@@ -33,7 +33,7 @@ Available to all user roles:
 - **Text + Voice Interaction**: Speak or type queries
 - **PDF Upload & Analysis**: Upload documents to get summaries, key points, and voice explanations
 - **Context-Aware Responses**: Tailored to user role (citizen/officer/ministry)
-- **24/7 Availability**: Always accessible on every page
+- **24/7 Availability**: Always accessible on every page.
 
 ### 🎨 Design Principles
 
