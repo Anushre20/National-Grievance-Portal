@@ -102,4 +102,6 @@ The application includes realistic mock data:
 
 ---
 
-Built with ❤️ for transparent, efficient, and citizen-first governance.
+Built with ❤️ for transparent, efficient, and citizen-first governance.<br>
+Built by : Anupama, Mahima Kumari and Anoushka Gupta
+
